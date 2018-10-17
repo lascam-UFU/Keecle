@@ -11,7 +11,7 @@ Setup Tools
 
 3- Keecle: to find key classes, follow the steps:
  
-   3.1- Create Subtrees
+   3.1- Create Subtrees, from execution trace
    
    3.2- Remove identical subtrees
    
@@ -19,5 +19,5 @@ Setup Tools
    
    3.4- Downloading and setup Weka software (https://www.cs.waikato.ac.nz/ml/weka/) to classify the trace subtrees 
    
-   3.5- Key classes: from result of the classification subtrees on Weka, 
+   3.5- Key classes: from result of the classification of subtrees on Weka and in sequence are extracted the key classes.
    
