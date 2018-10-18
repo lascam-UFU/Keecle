@@ -1,0 +1,21 @@
+@relation javac
+
+@attribute level 		NUMERIC
+@attribute size 		NUMERIC
+@attribute package 		NUMERIC
+@attribute class 		NUMERIC
+@attribute method 		NUMERIC
+@attribute accept 		{yes, no}
+
+@data
+2,4,2,3,3,?
+7,5,3,4,5,?
+7,61,7,16,9,?
+8,12,4,6,12,?
+8,25,3,2,23,?
+9,13,3,5,9,?
+9,94,5,14,26,?
+9,48,4,9,21,?
+11,51,6,8,16,?
+11,103,6,20,48,?
+22,13,3,4,11,?
